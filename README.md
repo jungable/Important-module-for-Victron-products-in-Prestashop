@@ -3,7 +3,12 @@
 Ce module permet d'importer et de synchroniser automatiquement les produits Victron Energy depuis leur API officielle (E-Order) vers votre boutique PrestaShop (1.7 / 8.x).
 
 > [!TIP]
-> Pour une **explication technique détaillée** de chaque fonctionnalité (Smart Update, Pruning, SEO...), consultez le fichier [FEATURES.md](FEATURES.md).
+> Pour une **explication technique détaillée** de chaque fonctionnalité (Smart Update, Pruning, SEO...), consultez le fichier [docs/FEATURES.md](docs/FEATURES.md).
+>
+> Voir aussi :
+> *   [Rapport de Tests](docs/TESTING.md)
+> *   [Pistes d'Amélioration](docs/IMPROVEMENTS.md)
+
 
 ## Fonctionnalités Principales
 

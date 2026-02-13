@@ -1,0 +1,18 @@
+# PrestaShop
+config.xml
+/vendor
+/node_modules
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
